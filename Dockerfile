@@ -6,6 +6,6 @@ COPY . .
 
 RUN npm install
 
-EXPOSE 8080
+EXPOSE 8081
 
 ENTRYPOINT ["node", "server.js"]
