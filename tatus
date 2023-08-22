@@ -1,0 +1,119 @@
+[33mcommit 9e56b42210cb71dae6c010cd6d89792434dfeeee[m[33m ([m[1;36mHEAD -> [m[1;32mnode[m[33m, [m[1;31morigin/node[m[33m)[m
+Author: poojashonyy <poojashoni1102@gmail.com>
+Date:   Tue Aug 22 13:20:40 2023 +0530
+
+    commit change 1
+
+[33mcommit 5f9224da09a3b0186e2f5c86a90eff77c4f9f82f[m
+Author: poojashonyy <poojashoni1102@gmail.com>
+Date:   Tue Aug 22 13:06:10 2023 +0530
+
+    comitted3
+
+[33mcommit 6a615015208400a2eb0d0eabc54b6729a1290506[m
+Author: poojashonyy <poojashoni1102@gmail.com>
+Date:   Tue Aug 22 12:46:04 2023 +0530
+
+    commited2
+
+[33mcommit 3dd7bec4944abe6e907130200704f7a860404057[m
+Author: poojashonyy <poojashoni1102@gmail.com>
+Date:   Tue Aug 22 12:10:21 2023 +0530
+
+    commit completed
+
+[33mcommit b6b7d4c2090d224d2d288bdf6f915a545f0dc2c7[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Fri May 26 11:47:43 2023 +0530
+
+    Improve Readme
+
+[33mcommit 2e3ec22052f60d4024282d259b570edb1b73e112[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Fri May 26 00:21:32 2023 +0530
+
+    Improve Readme
+
+[33mcommit e9a02028f0bf42b2988c03ca2bf331cd7608374d[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Thu May 25 23:32:57 2023 +0530
+
+    Remove actual answers
+
+[33mcommit a1c3fd671137d6212a40cb14c7b3e0a5ea185542[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Thu May 25 23:29:14 2023 +0530
+
+    Enable runners for node
+
+[33mcommit 59775bc25b5f8efa8c42e1533e38e2d7fd5a7604[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Thu May 25 23:27:31 2023 +0530
+
+    Add math controllers
+
+[33mcommit c2b2f0b06f5da7a3e89211d97b8a55f27fdd1ad6[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Thu May 25 22:51:39 2023 +0530
+
+    Add correct commands for node docker
+
+[33mcommit cbff957fd4f2ed592c33ff807900257828ba14e5[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Thu May 25 22:50:09 2023 +0530
+
+    Remove all java code
+
+[33mcommit 7239e6a51f9998df23a8d2b3c6d873dfa447b64a[m
+Author: Karun Japhet <javatarz@users.noreply.github.com>
+Date:   Thu May 25 10:03:45 2023 +0530
+
+    Fix title alignment
+
+[33mcommit 0c16c1ad60a3039e368943d464e80fbdeabf37f8[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Mon May 8 08:19:09 2023 +0530
+
+    Add proper readme
+
+[33mcommit 0b82ae6f609938927309a4ad9b45a81fea4600cb[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Thu May 4 20:20:55 2023 +0530
+
+    Remove actual answers
+
+[33mcommit ddd68a6dd98d1b58f8fb792aa8de48869655a007[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Thu May 4 17:15:19 2023 +0530
+
+    Add workflow for running tests
+
+[33mcommit e9e5c565521616627170584d3acbae9c662fd316[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Thu May 4 17:04:41 2023 +0530
+
+    Add newman based tests
+
+[33mcommit 7b3435cb2274483f447d0244141e5979b9e1002b[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Thu May 4 12:09:29 2023 +0530
+
+    Add greetings endpoint, make Add/Subtract controller response a json
+
+[33mcommit b751a82c13bfac35d7bd7da8508eb2ea34d1434d[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Tue May 2 15:54:55 2023 +0530
+
+    Add docker file for the app
+
+[33mcommit ec007a120a83c86eaa058bf32e233e622a1fe84e[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Tue May 2 14:29:43 2023 +0530
+
+    Add math controllers
+
+[33mcommit 5e2baf25eb16e7419a879d4c4fd9db413bd5fdd7[m
+Author: Kartikay Shandil <kartikays@sahaj.ai>
+Date:   Tue May 2 14:12:51 2023 +0530
+
+    Setup micronaut project skeleton
